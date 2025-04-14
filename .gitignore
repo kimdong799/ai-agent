@@ -1,0 +1,38 @@
+# Python 바이트 코드
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경
+venv/
+env/
+ENV/
+.env
+
+# 배포 파일
+dist/
+build/
+*.egg-info/
+
+# IDE 설정
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 테스트 캐시
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 로그 파일
+*.log
+
+# 로컬 개발 설정
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 기타
+.DS_Store
